@@ -34,7 +34,7 @@ const getSubmit = (event) =>
         console.log(transaction.todayTime)
         console.log(transaction.accountName)
         console.log(transaction.accountNo)
-        console.log(transaction.Amount)
+        // console.log(transaction.Amount)
         alert('Money Transferred')
     }
 
